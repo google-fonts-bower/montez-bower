@@ -1,0 +1,17 @@
+{
+    "name": "montez-googlefont",
+    "license": "APACHE2",
+    "authors": [
+        "Astigmatic"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/montez-bower.git"
+    },
+    "description": "Montez font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
